@@ -1,0 +1,15 @@
+git init = iniciamos repositorio
+git status = revisa estado
+git status -s = version resumida
+git add <nombre de archivo> = agrega cambio al stage
+git add . = agregaa todos los cambios al stage
+git commit -m "<comentario>" = agrega al area de commit con comentario
+git checkout -b
+archivo .gitignore = contiene archivos y rutas que quiero ignorar en el repositorio
+git diff = visualiza los cambios
+git og --oneline = muestra el historial de los commmit
+git branch = indica en que rama te encuentras (solo muestra rama despues de hacer por lo menos 1 commit)
+git checkout -b <nueva rama> = crea y salta a nueva rama
+git checkout <rama> = cambia a rama
+git merge <rama nueva> = se ejecuta desde la rama main
+git clone <enlace del repositorio>
